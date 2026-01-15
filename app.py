@@ -1,14 +1,3 @@
-"""
-Smart Money Footprint Tracker Dashboard
-========================================
-A Streamlit dashboard for tracking institutional ("Smart Money") activity
-using free, publicly available data from Yahoo Finance.
-
-Author: Python Data Scientist (FinTech Specialist)
-Requirements: streamlit, yfinance, pandas, numpy, plotly
-Run with: streamlit run smart_money_dashboard.py
-"""
-
 import streamlit as st
 import yfinance as yf
 import pandas as pd
